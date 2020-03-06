@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "git.ignoreLimitWarning": true,
+  "prettier.tabWidth": 4
+}
